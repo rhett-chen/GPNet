@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5ca6b6bf-7dfb-40c1-8f12-a5bebfb14ba8" name="isee" url="http://172.18.167.112">
+        <fileTransfer host="172.18.167.112" port="80" rootFolder="/home/zibo" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="80" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
